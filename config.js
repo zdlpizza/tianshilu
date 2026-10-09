@@ -10,7 +10,7 @@ const CONFIG = {
   repo: 'daily-report',
 
   // 日报根目录（仓库内，不需要可留空）
-  reportDir: 'reports',
+  reportDir: 'tianshilu',
 
   // 用户数据文件路径（存储注册用户列表）
   usersFile: 'data/users.json',
