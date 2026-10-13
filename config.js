@@ -4,7 +4,7 @@
 
 const CONFIG = {
   // Gitee 仓库所有者用户名
-  owner: 'YOUR_GITEE_USERNAME',
+  owner: 'thelier',
 
   // 存储日报的仓库名
   repo: 'daily-report',
@@ -16,7 +16,7 @@ const CONFIG = {
   usersFile: 'data/users.json',
 
   // Gitee 仓库读写 Token（在设置页面配置，这里是默认值）
-  token: 'YOUR_GITEE_TOKEN',
+  token: 'cb5bb65acb53e84b46266204036f5728',
 
   // 管理员用户名（唯一，可查看所有人日报）
   adminUser: 'admin',
